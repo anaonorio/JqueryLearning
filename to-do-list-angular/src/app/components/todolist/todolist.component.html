@@ -1,0 +1,13 @@
+<h1>To-Do List  (JQuery Example)</h1>
+<div id="taskAdd">
+    <input [(ngModel)]="name" required>
+    <input type="button" id="send" value="Add" (click)="Add()">
+</div>
+
+<div id="containerTasks">
+    <ul id="taskList">
+        <li *ngFor="let task of tasks">
+          <input type="checkbox" class="taskRemove" [checked]="task.check" (change)="task.check = !task.check">
+          <span [ngClass]="{ 'checked': task.check }">{{task.name}} {{task.check}}</span></li>
+    </ul>
+</div>

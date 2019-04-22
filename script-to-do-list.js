@@ -7,7 +7,6 @@ $(document).ready(function () {
 
 
     $(document).on('click', '.taskRemove', function () {
-        console.log($(this).is(":checked"));
         $(this).is(":checked") ? $(this).next("span").addClass("checked").hide().fadeIn(50) : $(this).next("span").removeClass("checked").hide().fadeIn(50);
     });
 
