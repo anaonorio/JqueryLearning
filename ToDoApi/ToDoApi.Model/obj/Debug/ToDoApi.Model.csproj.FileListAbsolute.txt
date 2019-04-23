@@ -1,0 +1,6 @@
+D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Model\bin\Debug\ToDoApi.Model.dll
+D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Model\bin\Debug\ToDoApi.Model.pdb
+D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Model\obj\Debug\ToDoApi.Model.csprojAssemblyReference.cache
+D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Model\obj\Debug\ToDoApi.Model.csproj.CoreCompileInputs.cache
+D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Model\obj\Debug\ToDoApi.Model.dll
+D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Model\obj\Debug\ToDoApi.Model.pdb
