@@ -1,9 +1,0 @@
-D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Service\bin\Debug\ToDoApi.Service.dll
-D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Service\bin\Debug\ToDoApi.Service.pdb
-D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Service\bin\Debug\ToDoApi.Model.dll
-D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Service\bin\Debug\ToDoApi.Model.pdb
-D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Service\obj\Debug\ToDoApi.Service.csprojAssemblyReference.cache
-D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Service\obj\Debug\ToDoApi.Service.csproj.CoreCompileInputs.cache
-D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Service\obj\Debug\ToDoApi.Service.csproj.CopyComplete
-D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Service\obj\Debug\ToDoApi.Service.dll
-D:\JsLearning\ToDoApi\ToDoApi\ToDoApi.Service\obj\Debug\ToDoApi.Service.pdb
